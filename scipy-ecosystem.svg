@@ -15,7 +15,7 @@
    id="svg3943"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="scipy-poster.pdf">
+   sodipodi:docname="scipy-ecosystem.pdf">
   <defs
      id="defs3">
     <linearGradient
@@ -51,11 +51,11 @@
      inkscape:zoom="0.66326975"
      inkscape:cx="372.04724"
      inkscape:cy="526.18109"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g10287-6"
      showgrid="false"
      units="px"
      inkscape:window-width="1134"
-     inkscape:window-height="860"
+     inkscape:window-height="856"
      inkscape:window-x="129"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -159,11 +159,11 @@
            x="44.878723"
            style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro"
            xml:space="preserve"><tspan
-             style="font-size:56px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro Light"
+             style="font-size:48.03675437px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;font-family:Source Sans Pro;-inkscape-font-specification:Source Sans Pro Light"
              y="537.54968"
              x="44.878723"
              id="tspan6354-2-9"
-             sodipodi:role="line">Pylab</tspan></text>
+             sodipodi:role="line">Matplotlib</tspan></text>
         <g
            transform="matrix(0.86575099,0,0,0.86575099,3.3123139,64.415356)"
            id="g7275-1">
